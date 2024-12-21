@@ -1,12 +1,17 @@
-<----------Flipbook Application----------->
+### Flipbook Application
+ This project converts a pdf into a flipbook using React-pageFlip
 
-<----Info---->
-This is a Flipbook application built using React, React PDF, React PageFlip, React ForwardRef, Tailwind CSS, Vite, and ChatGPT. The app load the PDF file and display it as a flipbook .
+## Tech Stacks Used
+Vite-React
+Tailwind CSS
+React PDF
+React Page-flip
 
-<----Tech Stack----->
-React: JavaScript library for building user interfaces.
-React PDF: Library to render PDF files inside a React component.
-React PageFlip: Library for creating flipbook-style page transitions.
-Tailwind CSS: Utility-first CSS framework for styling the application.
-Vite: Fast build tool and development server.
-ChatGPT: Used for helping in the debugging.
+## Worlflow
+ The pdf converted is given in the src/component folder. 
+ # React-PDF
+   React-PDF is a React library that allows rendering PDF documents directly in React applications. It uses pdf.js under the hood to handle PDF rendering.
+   Pdf.js is a JavaScript library for parsing and rendering PDFs in the browser. It extracts text content from the PDF
+ # React-Pageflip
+   React-Pageflip is a React library that provides an interactive flipbook interface with realistic page-flipping animations. 
+   
