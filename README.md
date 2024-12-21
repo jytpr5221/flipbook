@@ -1,8 +1,12 @@
-# React + Vite
+<----------Flipbook Application----------->
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<----Info---->
+This is a Flipbook application built using React, React PDF, React PageFlip, React ForwardRef, Tailwind CSS, Vite, and ChatGPT. The app load the PDF file and display it as a flipbook .
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<----Tech Stack----->
+React: JavaScript library for building user interfaces.
+React PDF: Library to render PDF files inside a React component.
+React PageFlip: Library for creating flipbook-style page transitions.
+Tailwind CSS: Utility-first CSS framework for styling the application.
+Vite: Fast build tool and development server.
+ChatGPT: Used for helping in the debugging.
